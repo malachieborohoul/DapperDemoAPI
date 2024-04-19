@@ -1,0 +1,12 @@
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/bin/Debug/net8.0/DapperDemoData.deps.json
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/bin/Debug/net8.0/DapperDemoData.dll
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/bin/Debug/net8.0/DapperDemoData.pdb
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/DapperDemoData.csproj.AssemblyReference.cache
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/DapperDemoData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/DapperDemoData.AssemblyInfoInputs.cache
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/DapperDemoData.AssemblyInfo.cs
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/DapperDemoData.csproj.CoreCompileInputs.cache
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/DapperDemoData.dll
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/refint/DapperDemoData.dll
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/DapperDemoData.pdb
+/Users/bsm/Documents/projects/dot net/DapperDemo/DapperDemoData/obj/Debug/net8.0/ref/DapperDemoData.dll
